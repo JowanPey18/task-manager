@@ -38,6 +38,7 @@ npm start
 ---------------------------------------------------------
 
 ##API Endpoint Summary
+
 | METHOD | ENDPOINT | DESCRIPTION | 
 | GET | /tasks/ | List all tasks | 
 | POST | /tasks/ | Create a new task | 
